@@ -1,8 +1,9 @@
 package sh.okx.rankup;
 
 
-import be.seeseemelk.mockbukkit.entity.PlayerMock;
 import org.junit.jupiter.api.Test;
+import org.mockbukkit.mockbukkit.entity.PlayerMock;
+
 import sh.okx.rankup.messages.Message;
 import sh.okx.rankup.ranks.Rank;
 import sh.okx.rankup.ranks.RankElement;

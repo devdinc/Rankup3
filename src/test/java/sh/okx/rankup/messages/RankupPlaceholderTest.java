@@ -1,8 +1,8 @@
 package sh.okx.rankup.messages;
 
-
-import be.seeseemelk.mockbukkit.entity.PlayerMock;
 import org.junit.jupiter.api.Test;
+import org.mockbukkit.mockbukkit.entity.PlayerMock;
+
 import sh.okx.rankup.RankupTest;
 
 import java.text.DecimalFormat;

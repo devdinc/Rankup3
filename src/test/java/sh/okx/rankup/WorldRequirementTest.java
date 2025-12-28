@@ -1,12 +1,13 @@
 package sh.okx.rankup;
 
 
-import be.seeseemelk.mockbukkit.entity.PlayerMock;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+
 import org.bukkit.Location;
 import org.junit.jupiter.api.Test;
-import sh.okx.rankup.placeholders.RankupExpansion;
+import org.mockbukkit.mockbukkit.entity.PlayerMock;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import sh.okx.rankup.placeholders.RankupExpansion;
 
 public class WorldRequirementTest extends RankupTest {
 

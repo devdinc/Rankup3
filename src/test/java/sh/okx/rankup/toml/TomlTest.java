@@ -1,8 +1,9 @@
 package sh.okx.rankup.toml;
 
-import be.seeseemelk.mockbukkit.entity.PlayerMock;
 import org.bukkit.ChatColor;
 import org.junit.jupiter.api.Test;
+import org.mockbukkit.mockbukkit.entity.PlayerMock;
+
 import sh.okx.rankup.RankupTest;
 import sh.okx.rankup.ranks.Rankups;
 

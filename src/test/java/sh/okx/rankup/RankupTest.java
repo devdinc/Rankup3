@@ -1,9 +1,10 @@
 package sh.okx.rankup;
 
-import be.seeseemelk.mockbukkit.MockBukkit;
-import be.seeseemelk.mockbukkit.ServerMock;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
+import org.mockbukkit.mockbukkit.MockBukkit;
+import org.mockbukkit.mockbukkit.ServerMock;
+
 import sh.okx.rankup.hook.GroupProvider;
 import sh.okx.rankup.providers.TestEconomyProvider;
 import sh.okx.rankup.providers.TestGroupProvider;
